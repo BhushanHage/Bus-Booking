@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Booking Frontend
 
 A modern React application for vehicle booking management system.
@@ -145,3 +146,6 @@ The project uses CSS modules for component styling. Main style files:
 ## License
 
 MIT
+=======
+# Bus-Booking
+>>>>>>> d9266e7859d24962cade106575b4536f80579c5f
